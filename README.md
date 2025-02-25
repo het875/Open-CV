@@ -80,3 +80,9 @@ Requirements
   	Real-time Face Detection: Implementing face detection in live video streams.
   	Gesture Recognition: Detecting hand gestures using image processing.
   	Augmented Reality: Adding virtual elements to real-world images using homographies and 3D transformations.
+
+
+![OpenCV Exploration]("C:\Users\NILE\Downloads\Gemini_Generated_Image_16pgzg16pgzg16pg.jpg")
+
+
+
